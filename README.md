@@ -1,7 +1,7 @@
-# OTC Price Validation — Euronext Amsterdam
+# OTC Price Validation
 
 ## Overview
-Technical exercise completed for an Index Data Analyst position at Euronext Amsterdam.
+Technical exercise completed for an Index Data Analyst position.
 The task involved validating OTC (Over-The-Counter) trade prices against standard 
 exchange prices using time-based matching.
 
